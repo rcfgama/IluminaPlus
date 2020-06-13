@@ -1,0 +1,4 @@
+Esse aplicativo tem como finalidade o uso em instalações domésticas de baixa tensão. 
+Os cálculos desse aplicativo foram feitos com base nas normas técnicas "", porém tendo como base um cenário genérico.
+Assim sendo devem ser utilizados como referência, em caso de dúvidas consulte um profissional. 
+Obs.: Para efeitos de projetos, os cálculos desse aplicativo não substituem a assinatura de um profissional.

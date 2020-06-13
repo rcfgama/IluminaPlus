@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ilumina Fácil</string>
+    <string name="aplicativo_para_projetos_de_ilumina_o">Aplicativo para projetos de iluminação</string>
+    <string name="tipo_do_ambiente">Tipo do ambiente</string>
+    <string name="ambientes_comuns">Ambientes comuns</string>
+    <string name="bancadas">Bancadas</string>
+    <string name="reas_de_menor_circula_o">Áreas de menor circulação</string>
+    <string name="home_office">Home office</string>
+    <string name="escrever_ler">Escrever, ler</string>
+    <string name="comprimento_do_ambiente_m">Comprimento do ambiente (m):</string>
+    <string name="largura_do_ambiente_m">Largura do ambiente (m):</string>
+    <string name="quantidade_de_l_mpadas">Quantidade de lâmpadas:</string>
+    <string name="dist_ncia_at_o_quadro_m">Distância até o quadro (m):</string>
+    <string name="calcular">calcular</string>
+    <string name="l_mpadas_de_w">Lâmpadas de (w):</string>
+    <string name="disjuntor_de_a">Disjuntor de (A):</string>
+    <string name="di_metro_dos_cabos_mm">Diâmetro dos cabos (mm²):</string>
+    <string name="resultados">Resultados:</string>
+    <string name="informe_valor">Por favor, informe um valor</string>
+    <string name="_127v">127V</string>
+    <string name="_220v">220V</string>
+</resources>
